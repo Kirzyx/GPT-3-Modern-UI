@@ -4,8 +4,8 @@ import './cta.css'
 
 const CTA = () => {
   return (
-    <div>
-        CTA
+    <div className="gpt3__cta">
+        
     </div>
   )
 }
