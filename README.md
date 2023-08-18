@@ -4,7 +4,7 @@
 
 ## Description
 
-Welcome to the [Project Name] repository! This project aims to provide a contemporary and visually appealing user interface for the OpenAI GPT-3 website.
+Welcome to the GPT-3_Modern-UI repository! This project aims to provide a contemporary and visually appealing user interface for the OpenAI GPT-3 website.
 
 ## About
 
