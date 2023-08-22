@@ -4,20 +4,20 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Unleashing Infinite Possibilities',
+    text: 'Welcome to a realm where language meets innovation. With GPT-3 at your fingertips, explore new horizons of creativity and interaction. Our platform empowers developers, creators, and businesses to tap into limitless potential.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Behind the AI Magic',
+    text: "Discover the magic of GPT-3's neural networks. Dive into the intricacies that enable it to understand and generate human-like text. Explore the architecture that underpins its remarkable natural language processing capabilities.",
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Transforming Industries',
+    text: "Witness GPT-3's transformative impact across sectors. See how it revolutionizes marketing, development, and more, redefining how businesses and creatives approach their work.",
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Embrace the Future',
+    text: "Step into a world of AI innovation. Access user-friendly APIs, collaborate with a dynamic community, and be a driving force in advancing AI's boundaries.",
   },
 ];
 
