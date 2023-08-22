@@ -21,4 +21,4 @@ To view the modernized UI for the GPT-4 website and see how React and Git were a
 
 ---
 
-[![Website Preview](website-preview-image-link)](website-link)
+[![Website Preview](blob:https://vercel.com/5d83f6bb-7e7e-448a-97ef-1fcbb157e0f7)](https://gpt-4-modern-ui.vercel.app/)
