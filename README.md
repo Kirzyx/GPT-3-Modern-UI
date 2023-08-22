@@ -19,7 +19,8 @@ The primary focus of this project is to modernize the user interface of OpenAI's
 
 ## Getting Started
 
-To view the modernized UI for the GPT-4 website and see how React and Git were applied in this project, visit our  [link].
+To view the modernized UI for the GPT-4 website and see how React and Git were applied in this project, visit my [site](https://gpt-4-modern-ui.vercel.app/)
+].
 
 ---
 
