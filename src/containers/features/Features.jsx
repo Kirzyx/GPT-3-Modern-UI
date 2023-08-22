@@ -5,15 +5,15 @@ import './features.css';
 const featuresData = [
   {
     title: 'Unleashing Infinite Possibilities',
-    text: 'Welcome to a realm where language meets innovation. With GPT-3 at your fingertips, explore new horizons of creativity and interaction. Our platform empowers developers, creators, and businesses to tap into limitless potential.',
+    text: 'Welcome to a realm where language meets innovation. With GPT-4 at your fingertips, explore new horizons of creativity and interaction. Our platform empowers developers, creators, and businesses to tap into limitless potential.',
   },
   {
     title: 'Behind the AI Magic',
-    text: "Discover the magic of GPT-3's neural networks. Dive into the intricacies that enable it to understand and generate human-like text. Explore the architecture that underpins its remarkable natural language processing capabilities.",
+    text: "Discover the magic of GPT-4's neural networks. Dive into the intricacies that enable it to understand and generate human-like text. Explore the architecture that underpins its remarkable natural language processing capabilities.",
   },
   {
     title: 'Transforming Industries',
-    text: "Witness GPT-3's transformative impact across sectors. See how it revolutionizes marketing, development, and more, redefining how businesses and creatives approach their work.",
+    text: "Witness GPT-4's transformative impact across sectors. See how it revolutionizes marketing, development, and more, redefining how businesses and creatives approach their work.",
   },
   {
     title: 'Embrace the Future',
@@ -22,12 +22,12 @@ const featuresData = [
 ];
 
 const Features = () => (
-  <div className="gpt3__features section__padding" id="features">
-    <div className="gpt3__features-heading">
+  <div className="gpt4__features section__padding" id="features">
+    <div className="gpt4__features-heading">
       <h1 className="gradient__text"> The Future is Now and You Just Need to Realize It. Step into Future Today. & Make it Happen.</h1>
       <p>Request Early Access to Get Started</p>
     </div>
-    <div className="gpt3__features-container">
+    <div className="gpt4__features-container">
       {featuresData.map((item, index) => (
         <Feature title={item.title} text={item.text} key={item.title + index} />
       ))}
