@@ -6,7 +6,7 @@ Welcome to the GPT-4-Modern-UI repository! This project was undertaken as an opp
 
 ## About
 
-The primary focus of this project is to modernize the user interface of OpenAI's GPT-3 website. Through the process of enhancing the design and user experience, I aimed to gain valuable experience with React components, state management, and responsive web development. This project also provided the chance to solidify my understanding of Git's version control concepts, branching, and collaboration workflows.
+The primary focus of this project is to modernize the user interface of OpenAI's GPT-4 website. Through the process of enhancing the design and user experience, I aimed to gain valuable experience with React components, state management, and responsive web development. This project also provided the chance to solidify my understanding of Git's version control concepts, branching, and collaboration workflows.
 
 ## Learning Goals
 
